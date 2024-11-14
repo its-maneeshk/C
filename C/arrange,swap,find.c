@@ -2,6 +2,7 @@
 #include <stdio.h>
 
 int main() {
+    printf("This program performs swapping, arranging in ascending order, finding the value in array, if not found what will be index if inserted.");
     int n, temp, targetVal;
     printf("What will be the number of input?\n>>> ");
     scanf("%d",&n);
