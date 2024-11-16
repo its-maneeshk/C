@@ -8,6 +8,7 @@ void swap(char *a, char *b) {
 }
 
 int main() {
+    printf("Program to find the next greater number with the same set of digits");
     char num[20];
 
     printf("Enter a number: ");
