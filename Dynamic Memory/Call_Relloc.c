@@ -5,6 +5,7 @@ int x=1;
 
 int main()
 {
+    printf("Dynamic programming for Call and Relloc Function.");
     int* ptr,n1,n2;    int x=1,y=1,z=1,q=1;
     
     printf("No of element: ");
